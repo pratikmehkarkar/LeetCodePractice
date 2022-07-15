@@ -12,3 +12,4 @@
 | 8 | [plus-one](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/PlusOne.kt) | Easy |
 | 9 | [remove-duplicates](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/RemoveDuplicates.kt) | Easy |
 | 10 | [reverse-link-list](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/ReverseLinkList.kt) | Easy |
+| 10 | [buy-sell-stocks](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/BuySellStock.kt) | Easy |
