@@ -1,5 +1,5 @@
 # LeetCode Solutions by p.mehkarkar
-**Total problems: 10, easy: 10, medium: 0, hard: 0**
+**Total problems: 11, easy: 11, medium: 0, hard: 0**
 | # | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
 | 1 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Kotlin](./src/main/kotlin/ClimbingStairs.kt) | Easy |
@@ -12,4 +12,4 @@
 | 8 | [plus-one](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/PlusOne.kt) | Easy |
 | 9 | [remove-duplicates](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/RemoveDuplicates.kt) | Easy |
 | 10 | [reverse-link-list](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/ReverseLinkList.kt) | Easy |
-| 10 | [buy-sell-stocks](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/BuySellStock.kt) | Easy |
+| 11 | [buy-sell-stocks](https://leetcode.com/problems) | [Kotlin](./src/main/kotlin/BuySellStock.kt) | Easy |
